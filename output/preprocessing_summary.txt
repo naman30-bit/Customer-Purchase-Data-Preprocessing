@@ -1,0 +1,7 @@
+Preprocessing Summary
+Original rows: 31
+Rows after duplicate removal: 30
+Duplicate rows removed: 1
+Missing values remaining in cleaned source data: 0
+Final processed shape: (30, 13)
+Final columns: Age, Annual_Income, Spending_Score, Purchase_Frequency, Gender_Female, Gender_Male, Product_Category_Beauty, Product_Category_Clothing, Product_Category_Electronics, Product_Category_Grocery, Product_Category_Home, Membership_Status_No, Membership_Status_Yes
